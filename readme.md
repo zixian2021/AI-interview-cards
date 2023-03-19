@@ -4,8 +4,8 @@
 ![Untitled](readme%20md%2059479e695dc044bd8bf6ce7f3942924b/Untitled.png)
 
 # 机器学习：
-![贝叶斯]（https://www.jianshu.com/p/6655de81ba14）
-![wuwu](www.baidu.com)
+[bayes]（）
+[wuwu](www.baidu.com)
 
 
 
