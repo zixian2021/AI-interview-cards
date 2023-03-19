@@ -6,7 +6,7 @@
 # 机器学习：
 ![bayes]（https://www.cnblogs.com/-yun/p/5010417.html）
 [wuwu](www.baidu.com)
-[]
+[贝叶斯](机器学习/Bayes.md)
 
 
 
