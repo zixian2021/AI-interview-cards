@@ -5,7 +5,7 @@
 [贝叶斯](机器学习/Bayes.md)  
 [K-means](机器学习/K-means.md)   
 [线性回归](机器学习/LinearRegression.md)  
-[逻辑回归](机器学习/Logsticregression.md) 
+[逻辑回归](机器学习/Logsticregression.md)  
 [PCA](机器学习/PCA.md)  
 [随机森林](机器学习/RandomForest.md)  
 [支持向量机](机器学习/SVM.md)  
