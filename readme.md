@@ -2,8 +2,8 @@
 
 
 # 机器学习：
-[贝叶斯](机器学习/Bayes.md)  
-[K-means](机器学习/K-means.md)   
+1.[贝叶斯](机器学习/Bayes.md)  
+2.[K-means](机器学习/K-means.md)   
 [线性回归](机器学习/LinearRegression.md)  
 [逻辑回归](机器学习/Logsticregression.md)  
 [PCA](机器学习/PCA.md)  
