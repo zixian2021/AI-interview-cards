@@ -17,12 +17,12 @@
 
 
 # 深度学习：
-[深度学习基础]
-[CNN]
-[RNN]
-[Transformer]
-[Model Evaluation]
-[强化学习]
+[深度学习基础](深度学习/DeepLearning.md)
+[CNN](深度学习/CNN.md)
+[RNN](深度学习/RNN.md)
+[Transformer](深度学习/Transformer.md)
+[Model Evaluation](深度学习/ModelEvaluation.md)
+[强化学习](深度学习/强化学习.md)
 [推荐系统]
 [数据处理]
 [Q-learning]
