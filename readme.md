@@ -5,7 +5,7 @@
 
 # 机器学习：
 ![贝叶斯]（https://www.jianshu.com/p/6655de81ba14）
-![wuwu]()
+![wuwu](www.baidu.com)
 
 
 
