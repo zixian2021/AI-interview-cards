@@ -11,4 +11,4 @@
 
 
 # 深度学习：
-[CNN](深度学习/ASR TTS b433c3e3ac7a468d97bd5b1f02b4f4ec.md)
+深度学习/ASR TTS b433c3e3ac7a468d97bd5b1f02b4f4ec.md
