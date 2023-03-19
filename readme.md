@@ -17,4 +17,20 @@
 
 
 # 深度学习：
+[深度学习基础]
+[CNN]
+[RNN]
+[Transformer]
+[Model Evaluation]
+[强化学习]
+[推荐系统]
+[数据处理]
+[Q-learning]
+[网络优化]
+[系统设计]
+[NLP]
+[CV]
+[ASR/TTS]
+[无监督学习]
+[多模态]
 
