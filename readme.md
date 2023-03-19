@@ -17,20 +17,20 @@
 
 
 # 深度学习：
-[深度学习基础](深度学习/DeepLearning.md)
-[CNN](深度学习/CNN.md)
-[RNN](深度学习/RNN.md)
-[Transformer](深度学习/Transformer.md)
-[Model Evaluation](深度学习/ModelEvaluation.md)
-[强化学习](深度学习/强化学习.md)
-[推荐系统]
-[数据处理]
-[Q-learning]
-[网络优化]
-[系统设计]
-[NLP]
-[CV]
-[ASR/TTS]
-[无监督学习]
-[多模态]
+[深度学习基础](深度学习/DeepLearning.md)  
+[CNN](深度学习/CNN.md)  
+[RNN](深度学习/RNN.md)  
+[Transformer](深度学习/Transformer.md)  
+[Model Evaluation](深度学习/ModelEvaluation.md)  
+[强化学习](深度学习/强化学习.md)  
+[推荐系统](深度学习/推荐系统.md)  
+[数据处理](深度学习/dataprocessing.md)  
+[Q-learning](深度学习/Q-learning.md)  
+[网络优化](深度学习/Optimisation.md)  
+[系统设计](深度学习/SYSTEMDESIGN.md)  
+[NLP](深度学习/NLP.md)  
+[CV](深度学习/CV.md)  
+[ASR/TTS](深度学习/ASR&TTS.md)  
+[无监督学习](深度学习/Unsupervisedlearning.md)  
+[多模态](深度学习/多模态.md) 
 
