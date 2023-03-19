@@ -4,7 +4,7 @@
 ![Untitled](readme%20md%2059479e695dc044bd8bf6ce7f3942924b/Untitled.png)
 
 # 机器学习：
-[bayes]（）
+[bayes]（https://www.cnblogs.com/-yun/p/5010417.html）
 [wuwu](www.baidu.com)
 
 
