@@ -5,7 +5,7 @@
 
 # 机器学习：
 
-- [贝叶斯](https://github.com/zixian2021/AI-interview-cards/blob/main/机器学习/Bayes.md）
-- 
+[贝叶斯](https://github.com/zixian2021/AI-interview-cards/blob/main/机器学习/Bayes.md）
+
 
 # 深度学习：
