@@ -6,10 +6,10 @@
 # 机器学习：
 [贝叶斯](机器学习/Bayes.md)  
 [K-means](机器学习/K-means.md)   
-[线性回归](机器学习/Linear Regression.md)  
-[逻辑回归](机器学习/Logstic regression.md)  
+[线性回归](机器学习/Linear\ Regression.md)  
+[逻辑回归](机器学习/Logstic\ regression.md)  
 [PCA](机器学习/PCA.md)  
-[随机森林](机器学习/Random Forest.md)  
+[随机森林](机器学习/Random\ Forest.md)  
 [支持向量机](机器学习/SVM.md)  
 [概率论](机器学习/概率论.md)  
 [特征工程](机器学习/特征工程.md)  
