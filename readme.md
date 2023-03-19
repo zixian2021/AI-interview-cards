@@ -4,7 +4,7 @@
 ![Untitled](readme%20md%2059479e695dc044bd8bf6ce7f3942924b/Untitled.png)
 
 # 机器学习：
-1. 超链接：[贝叶斯]（https://www.runoob.com/markdown/md-link.html）
+1. 超链接：[贝叶斯]（https://www.jianshu.com/p/6655de81ba14）
 
 
 
