@@ -1,4 +1,4 @@
-手工整理，1000余道，20多个类目的深度学习&机器学习算法岗面试题目QA，目前更新了基础题目的完整QA，持续更新ing 
+手工整理，1000余道，20多个类目的深度学习&机器学习算法岗面试题目QA，目前更新了所有题目的完整QA，新增LLM模块！
 
 
 # 机器学习：
@@ -16,7 +16,7 @@
 
 # 深度学习：
 [深度学习基础](深度学习/DeepLearning.md)  
-[CNN](深度学习/CNN.md)  
+[CNN](深度学习/CNN cfead0b50ab24fe2a82712101532845f.md)  
 [RNN](深度学习/RNN.md)  
 [Transformer](深度学习/Transformer.md)  
 [Model Evaluation](深度学习/ModelEvaluation.md)  
