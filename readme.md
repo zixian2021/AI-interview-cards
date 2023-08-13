@@ -16,7 +16,7 @@
 
 # 深度学习：
 [深度学习基础](深度学习/DeepLearning.md)  
-[CNN](深度学习/CNN cfead0b50ab24fe2a82712101532845f.md)  
+[CNN](深度学习/CNN2.md)  
 [RNN](深度学习/RNN.md)  
 [Transformer](深度学习/Transformer.md)  
 [Model Evaluation](深度学习/ModelEvaluation.md)  
