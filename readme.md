@@ -19,6 +19,7 @@
 [深度学习基础](深度学习/DLFunda.md)  
 [CNN](深度学习/CNN2.md)  
 [RNN](https://github.com/zixian2021/AI-interview-cards/blob/d3741888dab75c6c485c29891f0f8e24cd8ce42d/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/RNN%20ba2dd072fd1a45eab8be29543b3c4178.md)
+
 [Transformer](https://github.com/zixian2021/AI-interview-cards/blob/a75e06fdcdea97849d5a06d2d74d9bd435993ac2/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/Transformer%E7%9B%B8%E5%85%B3%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98%20b43386ee1a15456d803fa851d8666ecf.md)  
 [Model Evaluation](深度学习/ModelEvaluation.md)  
 [强化学习](https://github.com/zixian2021/AI-interview-cards/blob/a75e06fdcdea97849d5a06d2d74d9bd435993ac2/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%9D%A2%E8%AF%95%E9%A2%98%2033a57369e58e46a9a6e4d073a2230a5e.md)  
