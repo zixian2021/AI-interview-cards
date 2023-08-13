@@ -15,9 +15,9 @@
 
 
 # 深度学习：
-[深度学习基础](深度学习/DeepLearning.md)  
+[深度学习基础](深度学习/DLFunda.md)  
 [CNN](深度学习/CNN2.md)  
-[RNN](深度学习/RNN.md)  
+[RNN]([深度学习/RNN ba2dd072fd1a45eab8be29543b3c4178.md](https://github.com/zixian2021/AI-interview-cards/blob/d3741888dab75c6c485c29891f0f8e24cd8ce42d/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/RNN%20ba2dd072fd1a45eab8be29543b3c4178.md))  
 [Transformer](深度学习/Transformer.md)  
 [Model Evaluation](深度学习/ModelEvaluation.md)  
 [强化学习](深度学习/强化学习.md)  
